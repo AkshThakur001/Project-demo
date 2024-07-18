@@ -2,7 +2,7 @@
 This is my repository.
 <br>
 <br>
-Author - Aksh Thakur
+Author - Aksh (Thakur)
 <br>
 hii
 <br>
